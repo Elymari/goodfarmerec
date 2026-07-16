@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Listado de Videos</title>
+
+<link rel="stylesheet" href="estilos.css">
+
+</head>
+
+<body>
+
+<h1>Listado de Videos</h1>
+
+<input
+type="text"
+id="buscador"
+placeholder="Buscar nombre...">
+
+<div id="lista"></div>
+
+<!-- Ventana del video -->
+
+<div id="modal" class="modal">
+
+<div class="contenido">
+
+<span id="cerrar">&times;</span>
+
+<iframe
+id="youtubePlayer"
+width="800"
+height="450"
+frameborder="0"
+allowfullscreen
+allow="autoplay">
+</iframe>
+
+</div>
+
+</div>
+
+<script src="datos.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
