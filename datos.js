@@ -2,33 +2,28 @@
 const personas = [
 
 {
-nombre:"GINAFRUIT",
-youtube:"OSc0i90QAVM"
+nombre:"CAJA 208 DE 5 MANOS",
+youtube:"oBGnzyzP98c"
 },
 
 {
-nombre:"MENDOEXPORT",
-youtube:"2x30j1AioNU"
+nombre:"CAJA 208 DE 6 MANOS",
+youtube:"gnMaA9YZNAk"
 },
 
 {
-nombre:"BAGATOCORP",
-youtube:"8wB4xK5bx3o"
+nombre:"CAJA CLUSTER 22XU CP-12",
+youtube:"f-1IsPupYmw"
 },
 
 {
-nombre:"NOBOA",
-youtube:"-8aVFYHmPGg"
+nombre:"CAJA CLUSTER CP-21",
+youtube:"2PJGNC-Fu6o"
 },
 
 {
-nombre:"PIÑAS RICAS",
-youtube:"kVGy9l6rAsU"
+nombre:"CAJA CLUSTER 208",
+youtube:"ntKk9AoNNMg"
 },
 
-{
-nombre:"COMERSUR",
-youtube:"gJVhY37-rGA"
-},
-  
 ];
